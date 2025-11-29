@@ -1,0 +1,31 @@
+# Backup files
+*.backup
+*.bak
+*.old
+*.img
+*.iso
+
+# Clonezilla images
+clonezilla-*.img
+
+# Credentials and secrets
+*.key
+*.pem
+*.p12
+credentials.txt
+passwords.txt
+.env
+*.secret
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Log files
+*.log
+
+# Personal notes (if any)
+personal-notes/
+scratch/
