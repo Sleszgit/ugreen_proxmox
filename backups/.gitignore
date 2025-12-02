@@ -1,0 +1,6 @@
+# Backup files (large binary data)
+*.tar.gz
+*.zip
+
+# Keep directory structure
+!.gitignore

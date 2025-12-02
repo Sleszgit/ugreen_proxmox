@@ -2,6 +2,7 @@
 
 **Date:** 2025-11-29
 **Hardware:** UGREEN DXP4800 Plus NAS
+**Serial Number:** EC752JJ372539F78
 **Current OS:** UGOS Pro
 **Target OS:** Proxmox VE 9.1
 **UPS:** UGREEN US3000 (120W DC UPS)
